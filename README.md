@@ -11,16 +11,16 @@ Hoy me he centrado en 'Gophish', concretamente en su sección de ‘plantillas d
 En la vida real, los emails de phishing pueden incluir malware: adjuntos peligrosos, enlaces a descargas maliciosas, o macros en documentos.
 
 
-<img src="1-gophish.jepg">
+<img src="1-gophish.jpeg">
 
-<img src="2-gophish.jepg">
+<img src="2-gophish.jpeg">
 
-<img src="3-gophish.jepg">
+<img src="3-gophish.jpeg">
 
-<img src="4-gophish.jepg">
+<img src="4-gophish.jpeg">
 
-<img src="5-gophish.jepg">
+<img src="5-gophish.jpeg">
 
-<img src="6-gophish.jepg">
+<img src="6-gophish.jpeg">
 
-<img src="7-gophish.jepg">
+<img src="7-gophish.jpeg">
