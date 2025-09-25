@@ -14,7 +14,6 @@ instalación de la herramienta:
 
  ```
 git clone https://github.com/gophish/gophish.git
-cd gophish
 
  ```
 <img src="1-gophish.jpeg">
