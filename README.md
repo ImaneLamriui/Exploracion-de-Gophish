@@ -12,11 +12,11 @@ En la vida real, los emails de phishing pueden incluir malware: adjuntos peligro
 
 instalación de la herramienta: 
 
-´´´
+ ```
 git clone https://github.com/gophish/gophish.git
 cd gophish
 
-´´´
+ ```
 <img src="1-gophish.jpeg">
 
 <img src="2-gophish.jpeg">
