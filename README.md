@@ -10,7 +10,13 @@ Hoy me he centrado en 'Gophish', concretamente en su sección de ‘plantillas d
 
 En la vida real, los emails de phishing pueden incluir malware: adjuntos peligrosos, enlaces a descargas maliciosas, o macros en documentos.
 
+instalación de la herramienta: 
 
+´´´
+git clone https://github.com/gophish/gophish.git
+cd gophish
+
+´´´
 <img src="1-gophish.jpeg">
 
 <img src="2-gophish.jpeg">
